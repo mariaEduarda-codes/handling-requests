@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b12a2e56-1b14-4943-9c95-404d14d98ef4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handling-requests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConversorJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GerenciadorRequisicoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SalvarComoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consultaCEP (1).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consultaCEP (2).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consultaCEP (3).json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consultaCEP.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handling-requests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/handling-requests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConversorJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConversorJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GerenciadorRequisicoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GerenciadorRequisicoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SalvarComoJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalvarComoJson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +44,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/maria/Downloads/gson-2.10.1.jar",
+    "last_opened_file_path": "C:/Users/maria/Downloads/jackson-core-2.16.1.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,11 +56,25 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/maria/Documents/dev/handling-requests/src/Main.java",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="handling-requests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718837351424</updated>
-      <workItem from="1718837352503" duration="453000" />
+      <workItem from="1718837352503" duration="6874000" />
     </task>
     <servers />
   </component>
